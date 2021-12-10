@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BookApp-using Room</string>
+    <string name="click_me">click Me</string>
+</resources>
